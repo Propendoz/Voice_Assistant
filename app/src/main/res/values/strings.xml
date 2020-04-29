@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="text_view">Ваш вопрос:</string>
+    <string name="edit_text_hint">Задайте вопрос</string>
+    <string name="button_text">Отправить</string>
+</resources>
